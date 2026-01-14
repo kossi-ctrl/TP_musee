@@ -1,4 +1,5 @@
 # TP_musee
+
 C'est la modélisation et la création de bases de donnnées 
 
 ---
@@ -18,6 +19,7 @@ C'est la modélisation et la création de bases de donnnées
 ---
 
 # Technologies
+
 -CSV
 
 -SQL
@@ -27,6 +29,7 @@ C'est la modélisation et la création de bases de donnnées
 ---
 
 # Logiciel
+
 JMerise
 
 DataGrip
@@ -40,7 +43,7 @@ DataGrip
 
 -ZANGBE kossi
 
-
+---
 
 # Licence 
 
