@@ -1,14 +1,21 @@
 # TP_musee
 C'est la modélisation et la création de bases de donnnées 
 
+---
 
 # Utilisation
 
 -Analyse des données 
+
 -Proposition de modélisation
+
 -Export du SQL et ajout dans PostgreSQL
+
 -Création des CSV de données
+
 -Requêtes
+
+---
 
 # Technologies
 -CSV
@@ -17,10 +24,14 @@ C'est la modélisation et la création de bases de donnnées
 
 -PostgreSQL
 
+---
+
 # Logiciel
 JMerise
 
 DataGrip
+
+---
 
 # Auteurs
 -DOKANOU k. Daniel
