@@ -159,9 +159,16 @@ Il constitue une pièce centrale de mon portfolio en **Data Engineering & Analys
 
 ---
 
-## 📜 Licence
+## 📜 Licence  
 
-Projet académique — usage éducatif.
+Projet réalisé dans le cadre du  
+👉 [Centre d’Études Supérieures de la Renaissance — Université de Tours](https://www.cesr.tours.fr)
+
+© Novembre 2025 — Daniel, Thamra & Kossi  
+
+Sous licence :  
+👉 **[Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)**
+
 
 ```
 ```
