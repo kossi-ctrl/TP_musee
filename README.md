@@ -2,10 +2,6 @@
 # TP_Musée — Base de Données (PostgreSQL) 🏛️📊  
 **Modélisation • Implémentation • Analyse de données**
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-Data-blue)](#)
-[![Data Modeling](https://img.shields.io/badge/Data%20Modeling-MER/UML-purple)](#)
-
 ---
 
 ## 🎯 Présentation du projet
@@ -144,7 +140,7 @@ COPY evenement FROM 'evenement.csv' DELIMITER ';' CSV HEADER;
 
 ## 👤 Auteur
 
-**Kossi Ctrl**
+**Kossi-Ctrl**
 📍 Étudiant / Analyste de données en formation
 🔗 [https://github.com/kossi-ctrl](https://github.com/kossi-ctrl)
 
